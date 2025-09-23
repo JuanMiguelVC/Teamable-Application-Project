@@ -54,14 +54,14 @@ Also, you can edit the information clicking on the **Edit Profile** button. Once
 
 ## 📌 Other usefull NPM (Node Package Manager) commands
 
-### To run the tests execute
+### To run the tests, execute the following command
 
     npm run test
 
-### To package the application, execute
+### To package the application, execute the following command
 
     npm pack
     
-### To update the application libraries, execute
+### To update the application libraries, execute the following command
 
     npm update   
