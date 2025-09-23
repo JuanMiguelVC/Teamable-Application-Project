@@ -1,6 +1,6 @@
 # Teamable-Application-Project
 This is a demo project for the IT begginers course from Techworld with Nana.
-Link to the course description: https://www.techworld-with-nana.com/it-beginners-course
+Link to the course description: https://www.techworld-with-nana.com/it-beginners-course <br>
 The libraries of the project are updated regulary to keep the up to date with the newer versions of the libraries
 
 ## 📌 Technologies Used
