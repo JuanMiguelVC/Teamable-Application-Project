@@ -8,8 +8,8 @@
     "vue": "^3.5.16"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.3.1",
-    "@vue/compiler-sfc": "3.5.16",
+    "@vue/cli-service": "^5.0.9",
+    "@vue/compiler-sfc": "^3.5.16",
     "jest": "29.7.0",
     "supertest": "7.1.1"
   },
