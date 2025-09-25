@@ -54,8 +54,7 @@ node server.js
 The application runs on port 3000
 
 ### 5. 💻 Check the application
-On your web browser, type the following: localhost:3000 to see the application running
-Also, you can edit the information clicking on the **Edit Profile** button. Once you have finnished editing the information or checked the values shown on the brower, click on the **Update Profile** button to save the changes. The changes will be saved on the MongoDB database in order to be shown on the browser
+On your web browser, type the following:localhost:3000 to see the application running Also, you can edit the information by clicking on the Edit Profile button. Once you have finished editing the information or checked the values shown on the browser, click on the Update Profile button to save the changes. The changes will be saved on the MongoDB database be shown on the browser.
 
 ## 📌 Other usefull NPM (Node Package Manager) commands
 
