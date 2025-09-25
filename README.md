@@ -84,12 +84,17 @@ On your web browser, type the following:localhost:3000 to see the application ru
 
 ### To run the tests, execute the following command:
 
-    npm run test
+```bash
+npm run test
+```
 
 ### To package the application, execute the following command:
 
-    npm pack
+```bash
+npm pack
+```
 
 ### To update the application libraries, execute the following command:
-
-    npm update  
+```bash
+npm update
+```  
