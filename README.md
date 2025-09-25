@@ -34,7 +34,7 @@ npm install
 ```
 
 ### 4. 👟 Run the application
-Before running the application, it is needed to execute the commands indicated below
+Before running the application, it is needed to execute the commands indicated below.<br>
 First, the comand to execute is to serve the application
 ```bash
 npm run serve
