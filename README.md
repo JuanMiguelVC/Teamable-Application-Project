@@ -30,7 +30,7 @@ git clone https://github.com/JuanMiguelVC/Teamable-Application-Project.git
 Optional: Remove the .git folder of the cloned repository. This is an optional step; it is not required to perform in order to see how the code works.
 
 ### 2. 💻 Create a MongoDB database and collect it.
-On your local MongoDB Compass, create the database company_db. On the company_db database, create a collection named employees to save the data of the application.
+On your local MongoDB Compass, create the database **company_db**. On the **company_db** database, create a collection named **employees** to save the data of the application.
 
 ### 3. 📚 Install the libraries locally
 
@@ -78,7 +78,7 @@ node server.js
 The application runs on port 3000.
 
 ### 5. 💻 Check the application
-On your web browser, type the following:localhost:3000 to see the application running Also, you can edit the information by clicking on the Edit Profile button. Once you have finished editing the information or checked the values shown on the browser, click on the Update Profile button to save the changes. The changes will be saved on the MongoDB database be shown on the browser.
+On your web browser, type the following: localhost:3000 to see the application running.<br> Also, you can edit the information by clicking on the Edit Profile button. Once you have finished editing the information or checked the values shown on the browser, click on the Update Profile button to save the changes. The changes will be saved on the MongoDB database be shown on the browser.
 
 ## 📌 Other useful NPM (Node Package Manager) commands
 
