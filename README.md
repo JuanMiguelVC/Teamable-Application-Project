@@ -27,7 +27,7 @@ git clone https://github.com/JuanMiguelVC/Teamable-Application-Project.git
 
 ```
 
-Optional: Remove the .git folder of the cloned repository. This is an optional step; it is not required to perform in order to see how the code works.
+Optional: Remove the .git folder of the cloned repository to avoid committing to the repository. This is an optional step; it is not required to perform in order to see how the code works.
 
 ### 2. 💻 Create a MongoDB database and collect it.
 On your local MongoDB Compass, create the database **company_db**. On the **company_db** database, create a collection named **employees** to save the data of the application.
