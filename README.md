@@ -27,7 +27,12 @@ git clone https://github.com/JuanMiguelVC/Teamable-Application-Project.git
 
 ```
 
-Optional: Remove the .git folder of the cloned repository to avoid committing to the repository. This is an optional step; it is not required to perform in order to see how the code works.
+Remove the .git folder of the cloned repository to avoid committing to the repository. To check how the application works, removing the .git folder of the cloned repository is usefull to avoid pushing code changes to the repository and your clone of the repository is saved on your local computer
+To remove the .git folder, perform the following command
+```bash
+rm -rf .git
+```
+In case that you do have a Windows OS computer, do the following: Go to the folder, click on **view**, it would show all the options, go to the **show** tab, and click the option see hidden elements. Once the .git folder is visible, click on it and use the key combination **shift** plus **delete** to remove the .git folder from the localy cloned repository
 
 ### 2. 💻 Create a MongoDB database and collect it.
 On your local MongoDB Compass, create the database **company_db**. On the **company_db** database, create a collection named **employees** to save the data of the application.
