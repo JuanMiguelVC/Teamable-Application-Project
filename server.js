@@ -55,7 +55,7 @@ app.post("/update-profile", async function (req, res) {
 
   if (isEmptyPayload(payload) || isInvalidEmail(payload)) {
     res.send({
-      error: "Payload is empty. User profile was not updated succesfully",
+      error: "Payload is empty. User profile was not updated successfully",
     });
   } else {
     // connect to mongodb database

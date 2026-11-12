@@ -50,7 +50,7 @@ export default {
                 email: this.email,
                 interests: this.interests
             }
-            const responseJSON = await this.updateUserProfie(payload)
+            const responseJSON = await this.updateUserProfile(payload)
             console.log(responseJSON)
             this.isEditMode = false
         },
@@ -58,7 +58,7 @@ export default {
             const response = await fetch("get-profile")
             return await response.json()
         },
-        async updateUserProfie(payload) {
+        async updateUserProfile(payload) {
             const response = await fetch("update-profile", {
                 method: "POST",
                 headers: {

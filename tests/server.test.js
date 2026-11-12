@@ -24,7 +24,7 @@ test("test request with a not valid payload", async function () {
   console.log(response.body);
   expect(response.body).toHaveProperty("error");
   expect(response.body.error).toBe(
-    "Payload is empty. User profile was not updated succesfully",
+    "Payload is empty. User profile was not updated successfully",
   );
 
   server.close();
